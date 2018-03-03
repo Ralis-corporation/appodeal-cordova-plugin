@@ -235,5 +235,4 @@
         <source-file src="libs/Android/yandex-metrica-2.73.jar" target-dir="libs" />
     	<source-file src="libs/Android/startapp-3.6.2.jar" target-dir="libs" />
         <framework src="libs/Android/adcolony" custom="true" />
-    </platform>
 </plugin>
